@@ -1,13 +1,13 @@
-package com.example.ai_ticket_classifier;
+package com.example.ticketclassifier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AiTicketClassifierApplication {
+public class TicketClassifierApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AiTicketClassifierApplication.class, args);
+		SpringApplication.run(TicketClassifierApplication.class, args);
 	}
 
 }
